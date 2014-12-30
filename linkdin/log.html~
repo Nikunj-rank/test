@@ -1,0 +1,87 @@
+<html>
+<title> Login </title>
+<body>
+<form>
+
+<header>
+
+<div style="width: 100%;">
+
+	<div style="float:left; width: 50%">
+
+	&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+	<img src="LinkedIn-Logo-2C.png" height="42" width="150">
+	</div>
+
+	<div style:style="float:right;">
+		<table>
+			<tr>
+				<td> Email address </td>
+				<td> Password  <a href="www.linkdin.com">link</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td><input type="text"></td>
+				<td><input type="text"></td>
+				<td><input type="submit"></td>
+			</tr>
+		</table>
+
+	</div>
+</div>
+</header>
+<hr>
+<br>
+<h1 align="center"> Be great at what you do.</h1>
+
+<div style="width: 100%;">
+	<div style="float:left; width: 50%" align="center">
+	
+		&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+		<table>
+			<tr>
+				<td><img src="/home/nikunj/Desktop/linkdin/1.png" height="125" width="170">  </td>
+				<td><img src="2.png" height="125" width="170"> </td>
+				<td><img src="3.png" height="125" width="170"></td>
+			</tr>
+			<tr>
+				<td><img src="4.png" height="125" width="170">  </td>
+				<td><img src="5.png" height="125" width="170"> </td>
+				<td><img src="6.png" height="125" width="170"></td>
+				
+			</tr>
+		</table>
+
+		
+	</div>
+
+	<div style:style="float:right;">
+		<h2><b>Get started - It's Free.</b></h2>
+		<h3>Registration takes less than to minuts.</h3>
+		<input type="text" value="First name">
+		<input type="text" value="Last name">
+		<br><br>
+		<input type="text" value="Email address" style="width:350px;">
+		<br><br>
+		<input type="password" value="Password" style="width:350px;"><br><br>
+		<small>by clicking join now, You agree to linkd in's User agreement, privacy policy and cookies policy</small>
+		<br><br>
+		<input type="submit" value="Join now" style="width:350px;height:50px;" >
+
+	</div>
+</div>
+<br>
+<hr>
+
+<footer>
+	<div align="center">
+		Find colleage:&nbsp; <input type="text" value="First name">&nbsp; <input type="text" value="Last name">&nbsp;<input type="submit" value="Search"><br><br>
+		<small>Linkedin member directory:<a href="www.linkedin.com">a</a> b c d e f g h i
+
+	</div>
+<hr>
+<a href="www.linkedin.com">About</a>&nbsp;| &nbsp;<a href="www.linkedin.com">Help Center</a>&nbsp;| &nbsp;<a href="www.linkedin.com">Careers	</a>&nbsp;| &nbsp;
+</footer>
+</form>
+</body>
+</html>
